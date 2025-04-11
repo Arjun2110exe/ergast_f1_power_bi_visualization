@@ -15,11 +15,11 @@ The dataset was obtained from the Ergast Developer API and included multiple CSV
 
 - Merged datasets into a single master file using Power Query, joining:
 
- - Race results with race metadata (location, year)
+  - Race results with race metadata (location, year)
 
- - Driver information with constructor details
+  - Driver information with constructor details
 
- - Qualifying performance with final results
+  - Qualifying performance with final results
 
 - Resulted in a clean, analysis-ready CSV for efficient Power BI integration.
 
