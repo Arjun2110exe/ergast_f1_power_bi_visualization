@@ -1,5 +1,7 @@
 # ergast_f1_visualization
 
+![image](https://github.com/user-attachments/assets/bd240094-c7a8-4fa6-886c-93b041b41eff)
+
 # The Data Behind the Helmet
 
 This project presents a comprehensive and interactive Power BI dashboard built using cleaned and merged data from the Ergast Developer Dataset, covering Formula 1 seasons from 1994 to 2024.
