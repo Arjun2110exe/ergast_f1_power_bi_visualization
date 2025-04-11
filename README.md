@@ -6,24 +6,24 @@ This project presents a comprehensive and interactive Power BI dashboard built u
 
 The goal was to build an immersive and data-driven experience that allows users to explore driver careers, team contributions, and seasonal performance trends across 30 years of F1 history.
 
-🔧 Data Preparation & Cleaning:
+# 🔧 Data Preparation & Cleaning:
 The dataset was obtained from the Ergast Developer API and included multiple CSV files across entities such as races, qualifying, constructors, and results. We conducted a focused data-cleaning phase to optimize for analysis and performance:
 
-Filtered essential attributes from each file (e.g., raceId, driverId, constructorId, qualifying times, race results, status, points).
+- Filtered essential attributes from each file (e.g., raceId, driverId, constructorId, qualifying times, race results, status, points).
 
-Removed unused columns and normalized categorical fields.
+- Removed unused columns and normalized categorical fields.
 
-Merged datasets into a single master file using Power Query, joining:
+- Merged datasets into a single master file using Power Query, joining:
 
-Race results with race metadata (location, year)
+ - Race results with race metadata (location, year)
 
-Driver information with constructor details
+ - Driver information with constructor details
 
-Qualifying performance with final results
+ - Qualifying performance with final results
 
-Resulted in a clean, analysis-ready CSV for efficient Power BI integration.
+- Resulted in a clean, analysis-ready CSV for efficient Power BI integration.
 
-📊 Dashboard Features:
+# 📊 Dashboard Features:
 🔹 Driver Career Overview:
 Summary of debut year, nationality, wins, podiums, and total points.
 
@@ -50,7 +50,7 @@ Constructor hover behavior enables exploratory insights per team.
 
 Tooltip-rich environment enhances user experience.
 
-⚙️ Technical Highlights:
+# ⚙️ Technical Highlights:
 Built entirely in Power BI with DAX measures for:
 
 Dynamic constructor color logic
@@ -63,7 +63,7 @@ Used Power Query M language for transformations and joins.
 
 Optimized performance with star schema logic and minimized table joins.
 
-🎯 Outcome:
+# 🎯 Outcome:
 This dashboard offers a powerful platform to:
 
 Explore the career of any driver from 1994–2024
