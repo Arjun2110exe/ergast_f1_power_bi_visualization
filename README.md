@@ -25,50 +25,50 @@ The dataset was obtained from the Ergast Developer API and included multiple CSV
 
 # 📊 Dashboard Features:
 🔹 Driver Career Overview:
-Summary of debut year, nationality, wins, podiums, and total points.
+- Summary of debut year, nationality, wins, podiums, and total points.
 
-Dynamic constructor-colored visuals.
+- Dynamic constructor-colored visuals.
 
-Conditional cards showing First and Last Races, styled with team colors based on row-specific logic.
+- Conditional cards showing First and Last Races, styled with team colors based on row-specific logic.
 
 🔹 Points by Season (1994–2024):
-Yearly performance chart, color-coded by constructor.
+- Yearly performance chart, color-coded by constructor.
 
-Interactive tooltips displaying constructor, points, and race context.
+- Interactive tooltips displaying constructor, points, and race context.
 
-Automatically highlights peak performance years.
+- Automatically highlights peak performance years.
 
 🔹 Constructor Contribution Breakdown:
-Shows how many points each driver contributed to each team they drove for.
+- Shows how many points each driver contributed to each team they drove for.
 
-Highlights dominant stints vs minor team appearances.
+- Highlights dominant stints vs minor team appearances.
 
 🔹 Slicer Interactivity:
-Year slicer dynamically updates visuals (e.g., constructor name/color defaulting to most recent in that year).
+- Year slicer dynamically updates visuals (e.g., constructor name/color defaulting to most recent in that year).
 
-Constructor hover behavior enables exploratory insights per team.
+- Constructor hover behavior enables exploratory insights per team.
 
-Tooltip-rich environment enhances user experience.
+- Tooltip-rich environment enhances user experience.
 
 # ⚙️ Technical Highlights:
-Built entirely in Power BI with DAX measures for:
+- Built entirely in Power BI with DAX measures for:
 
-Dynamic constructor color logic
+  - Dynamic constructor color logic
 
-Hover-based first/last race context
+  - Hover-based first/last race context
 
-Conditional background formatting
+  - Conditional background formatting
 
-Used Power Query M language for transformations and joins.
+- Used Power Query M language for transformations and joins.
 
-Optimized performance with star schema logic and minimized table joins.
+- Optimized performance with star schema logic and minimized table joins.
 
 # 🎯 Outcome:
 This dashboard offers a powerful platform to:
 
-Explore the career of any driver from 1994–2024
+- Explore the career of any driver from 1994–2024
 
-Analyze their seasonal progression, team transitions, and peak performances
+- Analyze their seasonal progression, team transitions, and peak performances
 
-Compare team contributions across time in a highly visual and intuitive way
+- Compare team contributions across time in a highly visual and intuitive way
 
