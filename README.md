@@ -1,6 +1,7 @@
 # ergast_f1_visualization
 
-![image](https://github.com/user-attachments/assets/bd240094-c7a8-4fa6-886c-93b041b41eff)
+![image](https://github.com/user-attachments/assets/70bf67a2-e741-49cb-869f-f3cb39a46261)
+
 
 # The Data Behind the Helmet
 
