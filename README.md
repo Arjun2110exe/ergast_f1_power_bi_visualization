@@ -1,13 +1,17 @@
 # ergast_f1_visualization
 
-![image](https://github.com/user-attachments/assets/70bf67a2-e741-49cb-869f-f3cb39a46261)
+![image](https://github.com/user-attachments/assets/1c633b16-65dd-4576-bb2d-84f81f9234c3)
+![image](https://github.com/user-attachments/assets/abf929bb-fd43-44bd-a474-38ac62bb322b)
+
+
+
 
 
 # The Data Behind the Helmet
 
 This project presents a comprehensive and interactive Power BI dashboard built using cleaned and merged data from the Ergast Developer Dataset, covering Formula 1 seasons from 1994 to 2024.
 
-The goal was to build an immersive and data-driven experience that allows users to explore driver careers, team contributions, and seasonal performance trends across 30 years of F1 history.
+The goal was to build an immersive and data-driven experience that allows users to explore driver careers, constructor performance, team contributions, and seasonal performance trends across 30 years of F1 history.
 
 # 🔧 Data Preparation & Cleaning:
 The dataset was obtained from the Ergast Developer API and included multiple CSV files across entities such as races, qualifying, constructors, and results. We conducted a focused data-cleaning phase to optimize for analysis and performance:
@@ -27,7 +31,7 @@ The dataset was obtained from the Ergast Developer API and included multiple CSV
 - Resulted in a clean, analysis-ready CSV for efficient Power BI integration.
 
 # 📊 Dashboard Features:
-🔹 Driver Career Overview:
+🔹 Driver & Constructor Career Overview:
 - Summary of debut year, nationality, wins, podiums, and total points.
 
 - Dynamic constructor-colored visuals.
@@ -69,7 +73,7 @@ The dataset was obtained from the Ergast Developer API and included multiple CSV
 # 🎯 Outcome:
 This dashboard offers a powerful platform to:
 
-- Explore the career of any driver from 1994–2024
+- Explore the career of any driver and performance of constructors from 1994–2024
 
 - Analyze their seasonal progression, team transitions, and peak performances
 
