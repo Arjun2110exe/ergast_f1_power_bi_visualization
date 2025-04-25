@@ -1,6 +1,6 @@
 # ergast_f1_visualization
 
-![image](https://github.com/user-attachments/assets/79cd8d1e-187a-4fb1-9557-f3574caeadc0)
+![image](https://github.com/user-attachments/assets/dcafa6ff-344a-4550-8f45-e29804fdb446)
 ![image](https://github.com/user-attachments/assets/abf929bb-fd43-44bd-a474-38ac62bb322b)
 
 
