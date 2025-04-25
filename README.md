@@ -1,4 +1,4 @@
-# ergast_f1_visualization
+#  F1 Career Dashboard: Analyzing Historical Trends of Drivers and Constructors
 
 ![image](https://github.com/user-attachments/assets/dcafa6ff-344a-4550-8f45-e29804fdb446)
 ![image](https://github.com/user-attachments/assets/c9b4d175-37dc-414e-b5ab-b8c3dc327379)
